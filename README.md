@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AshwinNarayanPK
-- 👀 I’m interested in Development.
-- 🌱 I’m currently learning Web Development
+
 
 
 <!---
